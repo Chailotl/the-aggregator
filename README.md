@@ -214,8 +214,6 @@ A big list of interesting or useful websites I found across the internet
 
 - [Reqzone](https://reqzone.com/)
   - A consistent and high quality list of movies and TV shows in 720p or 1080p BluRay wherever possible, not listed in the r/Piracy Megathread for some reason
-- [Anime Kaizoku](https://animekaizoku.com/)
-  - A great place to download high quality animes
 
 ## Games
 
