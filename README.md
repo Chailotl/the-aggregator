@@ -318,3 +318,5 @@ Unorganized links go here for future organizing
 - [https://posemy.art/](https://posemy.art/)
 - [https://revanced.app/](https://revanced.app/)
 - [https://modernfontstacks.com/](https://modernfontstacks.com/)
+- https://minitokyo3d.com/
+- https://www.realtimecolors.com/
