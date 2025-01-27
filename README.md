@@ -324,3 +324,4 @@ Unorganized links go here for future organizing
 - https://cobalt.tools/
 - https://www.dungeonscrawl.com/
 - https://www.whatthefuckshouldimakefordinner.com/
+- https://tryitands.ee/
