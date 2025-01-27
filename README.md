@@ -320,5 +320,7 @@ Unorganized links go here for future organizing
 - [https://modernfontstacks.com/](https://modernfontstacks.com/)
 - https://minitokyo3d.com/
 - https://www.realtimecolors.com/
+- https://component-party.dev
 - https://cobalt.tools/
 - https://www.dungeonscrawl.com/
+- https://www.whatthefuckshouldimakefordinner.com/
