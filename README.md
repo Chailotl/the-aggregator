@@ -326,3 +326,4 @@ Unorganized links go here for future organizing
 - https://www.whatthefuckshouldimakefordinner.com/
 - https://tryitands.ee/
 - https://fmhy.net/
+- https://www.explainshell.com/
