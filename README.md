@@ -328,3 +328,4 @@ Unorganized links go here for future organizing
 - https://fmhy.net/
 - https://www.explainshell.com/
 - https://oklch.com/
+- https://patterns.alexjball.com/
