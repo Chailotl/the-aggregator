@@ -329,3 +329,7 @@ Unorganized links go here for future organizing
 - https://www.explainshell.com/
 - https://oklch.com/
 - https://patterns.alexjball.com/
+- https://e-mail.wtf/
+- https://wplace.live/
+- https://www.privacyguides.org/
+- https://88x31.nl/
