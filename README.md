@@ -333,3 +333,9 @@ Unorganized links go here for future organizing
 - https://wplace.live/
 - https://www.privacyguides.org/
 - https://88x31.nl/
+- https://http.cat/
+- https://volpeon.ink/emojis/
+- http://wordlist.aspell.net/
+- https://oklch.fyi/
+- https://wplace.live/
+- https://mappings.dev/
