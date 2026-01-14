@@ -339,3 +339,10 @@ Unorganized links go here for future organizing
 - https://oklch.fyi/
 - https://wplace.live/
 - https://mappings.dev/
+- https://patorjk.com/image-glitcher/
+- https://strudel.cc/
+- https://googleballs.com/
+- https://www.onelook.com/thesaurus/
+- https://ffoodd.github.io/a11y.css/
+- https://bigrat.monster/
+- https://neal.fun/not-a-robot/
